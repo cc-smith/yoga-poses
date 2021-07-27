@@ -1,0 +1,16 @@
+{
+  "poses:":[
+    {
+      "name": "big_toe",
+      "transliteration": "Padangushthasana",
+      "category": "standing",
+      "difficulty": "intermediate"
+    },
+    {
+      "name": "bird_of_paradise",
+      "transliteration": "Svarga Dvijasana",
+      "category": "balancing",
+      "difficulty": "advanced"
+    }
+  ]
+}
