@@ -1,3 +1,5 @@
+// poses.json file taken from: https://github.com/Stuwert/yoga-builder
+
 const express = require('express')
 const path = require('path')
 const url = require('url');
