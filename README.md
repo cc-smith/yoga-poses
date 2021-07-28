@@ -10,5 +10,6 @@ https://yoga-poses-api.herokuapp.com/api?name=warrior&difficulty=expert
 To use multiple words in a query parameter, use a hyphen to separate words, i.e. benefits=increases-stamina  
   
   
+  
 Credit to https://github.com/Stuwert/yoga-builder/blob/staging/poses.json for poses.json
 
