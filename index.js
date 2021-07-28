@@ -1,4 +1,4 @@
-// poses.json file taken from: 
+// poses.json file taken from: https://github.com/Stuwert/yoga-builder/blob/staging/poses.json
 
 const express = require('express')
 const path = require('path')
@@ -10,17 +10,13 @@ const app = express();
 let data = JSON.parse(fs.readFileSync('poses.json'));
 let poses = data["poses:"]
 
-// https://yoga-poses-api.herokuapp.com/api?pose_name=nameValue&category=categoryValue&difficulty=difficultyValue&benefits=benefitsValue
+// https://yoga-poses-api.herokuapp.com/api?name=nameValue&category=categoryValue&difficulty=difficultyValue&benefits=benefitsValue
 
 app.get('/api', (req, res) => {
   // Get the filter criterion as provided in the get request url
   var url_parsed = url.parse(req.url, true);
   var poseFilter = url_parsed.query
-  // var poseFilter = {
-  //   "name": req.query.name,
-  //   "category": req.query
-  // }
-  console.log("***", poseFilter)
+ 
   // Filter the poses.json file with the filter criterion
   var result = poses.filter(item => {
     var flag = true  // Set the conditional flag
@@ -44,7 +40,6 @@ app.get('/api', (req, res) => {
 
     }
     return flag;
-
   });
 
   // Send the filtered json to the user
