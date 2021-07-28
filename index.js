@@ -10,7 +10,8 @@ const app = express();
 let data = JSON.parse(fs.readFileSync('poses.json'));
 let poses = data["poses:"]
 
-// http://localhost:5000/api?name=nameValue&category=categoryValue&difficulty=difficultyValue&benefits=benefitsValue
+// https://yoga-poses-api.herokuapp.com/api?pose_name=nameValue&category=categoryValue&difficulty=difficultyValue&benefits=benefitsValue
+
 app.get('/api', (req, res) => {
   // Get the filter criterion as provided in the get request url
   var url_parsed = url.parse(req.url, true);

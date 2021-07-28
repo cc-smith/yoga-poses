@@ -2,7 +2,7 @@
    "poses:":[
     {
        "file_reference":"bird_of_paradise_revolved.html",
-       "pose_name":"Revolved Bird of Paradise Pose",
+       "name":"Revolved Bird of Paradise Pose",
        "sanskrit_name":"Parivṛtta Svarga Dvijāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -21,7 +21,7 @@
     },
     {
        "file_reference":"blissful_baby.html",
-       "pose_name":"Happy Baby Pose",
+       "name":"Happy Baby Pose",
        "sanskrit_name":"Ānanda Bālāsana",
        "translation":[
           "ānanda = happy",
@@ -38,7 +38,7 @@
     },
     {
        "file_reference":"boat_full.html",
-       "pose_name":"Boat Pose",
+       "name":"Boat Pose",
        "sanskrit_name":"Nāvāsana",
        "translation":[
           "nāva = boat",
@@ -53,7 +53,7 @@
     },
     {
        "file_reference":"boat_half.html",
-       "pose_name":"Half Boat Pose",
+       "name":"Half Boat Pose",
        "sanskrit_name":"Ardha Nāvāsana",
        "translation":[
           "ardha = half",
@@ -69,7 +69,7 @@
     },
     {
        "file_reference":"bound_angle.html",
-       "pose_name":"Bound Angle Pose",
+       "name":"Bound Angle Pose",
        "sanskrit_name":"Baddha Koṇāsana",
        "translation":[
           "baddha = bound",
@@ -86,7 +86,7 @@
     },
     {
        "file_reference":"bow.html",
-       "pose_name":"Bow Pose",
+       "name":"Bow Pose",
        "sanskrit_name":"Dhanurāsana",
        "translation":[
           "dhanur = bow",
@@ -101,7 +101,7 @@
     },
     {
        "file_reference":"bow_half.html",
-       "pose_name":"Half Bow Pose",
+       "name":"Half Bow Pose",
        "sanskrit_name":"Ardha Dhanurāsana",
        "translation":[
           "ardha = half",
@@ -119,7 +119,7 @@
     },
     {
        "file_reference":"box_neutral.html",
-       "pose_name":"Box Pose",
+       "name":"Box Pose",
        "sanskrit_name":"Cakravākāsana",
        "translation":[
           "cakravāka = ruddy goose",
@@ -135,7 +135,7 @@
     },
     {
        "file_reference":"bridge.html",
-       "pose_name":"Bridge Pose",
+       "name":"Bridge Pose",
        "sanskrit_name":"Setu Bandha Sarvāṅgāsana",
        "translation":[
           "setu = bridge",
@@ -153,7 +153,7 @@
     },
     {
        "file_reference":"bridge_leg_up.html",
-       "pose_name":"One Legged Bridge Pose",
+       "name":"One Legged Bridge Pose",
        "sanskrit_name":"Eka Pāda Setu Bandha Sarvāṅgāsana",
        "translation":[
           "eka = one",
@@ -175,7 +175,7 @@
     },
     {
        "file_reference":"camel.html",
-       "pose_name":"Camel Pose",
+       "name":"Camel Pose",
        "sanskrit_name":"Uṣṭrāsana",
        "translation":[
           "uṣṭra = camel",
@@ -190,7 +190,7 @@
     },
     {
        "file_reference":"cat.html",
-       "pose_name":"Cat Pose",
+       "name":"Cat Pose",
        "sanskrit_name":"Marjaryāsana",
        "translation":[
           "marjarya = cat",
@@ -207,7 +207,7 @@
     },
     {
        "file_reference":"cat_balance.html",
-       "pose_name":"Balancing the Cat Pose",
+       "name":"Balancing the Cat Pose",
        "sanskrit_name":"Utthita Cakravākāsana",
        "translation":[
           "utthita = extended",
@@ -225,7 +225,7 @@
     },
     {
        "file_reference":"chair.html",
-       "pose_name":"Chair Pose",
+       "name":"Chair Pose",
        "sanskrit_name":"Utkaṭāsana",
        "translation":[
           "utkaṭa = fierce",
@@ -240,7 +240,7 @@
     },
     {
        "file_reference":"chair_twist.html",
-       "pose_name":"Revolved Chair Pose",
+       "name":"Revolved Chair Pose",
        "sanskrit_name":"Parivṛtta Utkaṭāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -258,7 +258,7 @@
     },
     {
        "file_reference":"chair_twist_bind.html",
-       "pose_name":"Bound Revolved Chair Pose",
+       "name":"Bound Revolved Chair Pose",
        "sanskrit_name":"Parivṛtta Baddha Utkaṭāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -277,7 +277,7 @@
     },
     {
        "file_reference":"chair_twist_bind_up.html",
-       "pose_name":"Bird of Paradise Pose",
+       "name":"Bird of Paradise Pose",
        "sanskrit_name":"Svarga Dvijāsana",
        "translation":[
           "svarga = heaven",
@@ -295,7 +295,7 @@
     },
     {
        "file_reference":"chair_twist_extended.html",
-       "pose_name":"Revolved Chair with Extended Arms Pose",
+       "name":"Revolved Chair with Extended Arms Pose",
        "sanskrit_name":"Utthita Parivṛtta Utkaṭāsana",
        "translation":[
           "utthita = extended",
@@ -314,7 +314,7 @@
     },
     {
        "file_reference":"child.html",
-       "pose_name":"Extended Child's Pose",
+       "name":"Extended Child's Pose",
        "sanskrit_name":"Utthita Balāsana",
        "translation":[
           "utthita = extended",
@@ -330,7 +330,7 @@
     },
     {
        "file_reference":"child_traditional.html",
-       "pose_name":"Child's Pose",
+       "name":"Child's Pose",
        "sanskrit_name":"Balāsana",
        "translation":[
           "bala = child",
@@ -345,7 +345,7 @@
     },
     {
        "file_reference":"child_wide.html",
-       "pose_name":"Wide Child's Pose",
+       "name":"Wide Child's Pose",
        "sanskrit_name":"Balāsana",
        "translation":[
           "bala = child",
@@ -362,7 +362,7 @@
     },
     {
        "file_reference":"cobra.html",
-       "pose_name":"Cobra Pose",
+       "name":"Cobra Pose",
        "sanskrit_name":"Bhujaṅgāsana",
        "translation":[
           "bhujaṅga = serpent",
@@ -377,7 +377,7 @@
     },
     {
        "file_reference":"corpse.html",
-       "pose_name":"Corpse Pose",
+       "name":"Corpse Pose",
        "sanskrit_name":"Śavāsana",
        "translation":[
           "śava = corpse",
@@ -392,7 +392,7 @@
     },
     {
        "file_reference":"corpse_double_leg_raise.html",
-       "pose_name":"Rejuvenation Pose",
+       "name":"Rejuvenation Pose",
        "sanskrit_name":"Supta Daṇḍāsana",
        "translation":[
           "supta = supine",
@@ -409,7 +409,7 @@
     },
     {
        "file_reference":"crescent_moon.html",
-       "pose_name":"Crescent Moon Pose",
+       "name":"Crescent Moon Pose",
        "sanskrit_name":"Ashta Chandrāsana",
        "translation":[
           "ashta = side",
@@ -427,7 +427,7 @@
     },
     {
        "file_reference":"crow.html",
-       "pose_name":"Crow Pose",
+       "name":"Crow Pose",
        "sanskrit_name":"Bakāsana",
        "translation":[
           "baka = crane",
@@ -443,7 +443,7 @@
     },
     {
        "file_reference":"crow_flying.html",
-       "pose_name":"One Legged Crow Pose",
+       "name":"One Legged Crow Pose",
        "sanskrit_name":"Eka Pāda Bakāsana",
        "translation":[
           "eka = one",
@@ -463,7 +463,7 @@
     },
     {
        "file_reference":"crow_side.html",
-       "pose_name":"Side Crow Pose",
+       "name":"Side Crow Pose",
        "sanskrit_name":"Pārśva Bakāsana",
        "translation":[
           "pārśva = side",
@@ -482,7 +482,7 @@
     },
     {
        "file_reference":"deaf_man.html",
-       "pose_name":"Deaf Man's Pose",
+       "name":"Deaf Man's Pose",
        "sanskrit_name":"Karṇapīḍāsana",
        "translation":[
           "karṇa = ear",
@@ -499,7 +499,7 @@
     },
     {
        "file_reference":"dog.html",
-       "pose_name":"Cow Pose",
+       "name":"Cow Pose",
        "sanskrit_name":"Bitilāsana",
        "translation":[
           "bitil = cow",
@@ -517,7 +517,7 @@
     },
     {
        "file_reference":"downward_dog.html",
-       "pose_name":"Downward-Facing Dog Pose",
+       "name":"Downward-Facing Dog Pose",
        "sanskrit_name":"Adho Mukha Śvānāsana",
        "translation":[
           "adho = downward",
@@ -534,7 +534,7 @@
     },
     {
        "file_reference":"downward_dog_hand_to_ankle.html",
-       "pose_name":"Revolved Downward-Facing Dog Pose",
+       "name":"Revolved Downward-Facing Dog Pose",
        "sanskrit_name":"Parivṛtta Adho Mukha Śvānāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -554,7 +554,7 @@
     },
     {
        "file_reference":"downward_dog_leg_up.html",
-       "pose_name":"One Legged Downward-Facing Dog Pose",
+       "name":"One Legged Downward-Facing Dog Pose",
        "sanskrit_name":"Eka Pāda Adho Mukha Śvānāsana",
        "translation":[
           "eka = one",
@@ -576,7 +576,7 @@
     },
     {
        "file_reference":"eagle.html",
-       "pose_name":"Eagle Pose",
+       "name":"Eagle Pose",
        "sanskrit_name":"Garuḍāsana",
        "translation":[
           "garuḍa = eagle",
@@ -591,7 +591,7 @@
     },
     {
        "file_reference":"easy.html",
-       "pose_name":"Easy Pose",
+       "name":"Easy Pose",
        "sanskrit_name":"Sukhāsana",
        "translation":[
           "sukha = pleasure",
@@ -606,7 +606,7 @@
     },
     {
        "file_reference":"eight_angle.html",
-       "pose_name":"Eight Angle Pose",
+       "name":"Eight Angle Pose",
        "sanskrit_name":"Aṣṭāvakrāsana",
        "translation":[
           "aṣṭā = eight",
@@ -624,7 +624,7 @@
     },
     {
        "file_reference":"feathered_peacock.html",
-       "pose_name":"Feathered Peacock Pose",
+       "name":"Feathered Peacock Pose",
        "sanskrit_name":"Pīñcha Mayūrāsana",
        "translation":[
           "pīñcha = feather",
@@ -641,7 +641,7 @@
     },
     {
        "file_reference":"fire_log.html",
-       "pose_name":"Fire Log Pose",
+       "name":"Fire Log Pose",
        "sanskrit_name":"Agnistambhāsana",
        "translation":[
           "agni = fire",
@@ -658,7 +658,7 @@
     },
     {
        "file_reference":"firefly.html",
-       "pose_name":"Firefly Pose",
+       "name":"Firefly Pose",
        "sanskrit_name":"Tittibhāsana",
        "translation":[
           "tittibha = firefly",
@@ -673,7 +673,7 @@
     },
     {
        "file_reference":"fish.html",
-       "pose_name":"Fish Pose",
+       "name":"Fish Pose",
        "sanskrit_name":"Matsyāsana",
        "translation":[
           "matsya = fish",
@@ -688,7 +688,7 @@
     },
     {
        "file_reference":"flying_man_revolved.html",
-       "pose_name":"Revolved Flying Man Pose",
+       "name":"Revolved Flying Man Pose",
        "sanskrit_name":"Parivṛtta Eka Pāda Kouṇḍinyāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -708,7 +708,7 @@
     },
     {
        "file_reference":"forward_bend.html",
-       "pose_name":"Standing Forward Bend Pose",
+       "name":"Standing Forward Bend Pose",
        "sanskrit_name":"Uttānāsana",
        "translation":[
           "uttāna = stretch out",
@@ -723,7 +723,7 @@
     },
     {
        "file_reference":"forward_bend_deep.html",
-       "pose_name":"Standing Forward Bend with Shoulder Opener Pose",
+       "name":"Standing Forward Bend with Shoulder Opener Pose",
        "sanskrit_name":"Uttānāsana",
        "translation":[
           "uttāna = stretch out",
@@ -738,7 +738,7 @@
     },
     {
        "file_reference":"forward_bend_half_way.html",
-       "pose_name":"Halfway Lift Pose",
+       "name":"Halfway Lift Pose",
        "sanskrit_name":"Ardha Uttānāsana",
        "translation":[
           "ardha = half",
@@ -754,7 +754,7 @@
     },
     {
        "file_reference":"four_limbed_staff.html",
-       "pose_name":"Four Limbed Staff Pose",
+       "name":"Four Limbed Staff Pose",
        "sanskrit_name":"Chaturaṅga Daṇḍāsana",
        "translation":[
           "chatur = four",
@@ -771,7 +771,7 @@
     },
     {
        "file_reference":"frog.html",
-       "pose_name":"Frog Pose",
+       "name":"Frog Pose",
        "sanskrit_name":"Bhekāsana",
        "translation":[
           "bheka = frog",
@@ -788,7 +788,7 @@
     },
     {
        "file_reference":"garland.html",
-       "pose_name":"Garland Pose",
+       "name":"Garland Pose",
        "sanskrit_name":"Mālāsana",
        "translation":[
           "mālā = garland or necklace",
@@ -803,7 +803,7 @@
     },
     {
        "file_reference":"gorilla.html",
-       "pose_name":"Gorilla Pose",
+       "name":"Gorilla Pose",
        "sanskrit_name":"Pādahastāsana",
        "translation":[
           "pāda = foot or leg",
@@ -820,7 +820,7 @@
     },
     {
        "file_reference":"half_moon.html",
-       "pose_name":"Half Moon Pose",
+       "name":"Half Moon Pose",
        "sanskrit_name":"Ardha Chandrāsana",
        "translation":[
           "ardha = half",
@@ -836,7 +836,7 @@
     },
     {
        "file_reference":"half_moon_bound.html",
-       "pose_name":"Bound Half Moon Pose",
+       "name":"Bound Half Moon Pose",
        "sanskrit_name":"Baddha Ardha Chandrāsana",
        "translation":[
           "baddha = bound",
@@ -854,7 +854,7 @@
     },
     {
        "file_reference":"half_moon_revolved.html",
-       "pose_name":"Revolved Half Moon Pose",
+       "name":"Revolved Half Moon Pose",
        "sanskrit_name":"Parivṛtta Ardha Chandrāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -873,7 +873,7 @@
     },
     {
        "file_reference":"handstand.html",
-       "pose_name":"Handstand Pose",
+       "name":"Handstand Pose",
        "sanskrit_name":"Adho Mukha Vṛkṣāsana",
        "translation":[
           "adho = downward",
@@ -891,7 +891,7 @@
     },
     {
        "file_reference":"handstand_scorpion.html",
-       "pose_name":"Scorpion Handstand Pose",
+       "name":"Scorpion Handstand Pose",
        "sanskrit_name":"Vṛśchikāsana II",
        "translation":[
           "vṛśchika = scorpion",
@@ -908,7 +908,7 @@
     },
     {
        "file_reference":"headstand_supported.html",
-       "pose_name":"Supported Headstand Pose",
+       "name":"Supported Headstand Pose",
        "sanskrit_name":"Sālamba Śīrṣāsana I",
        "translation":[
           "sā = with",
@@ -925,7 +925,7 @@
     },
     {
        "file_reference":"headstand_tripod.html",
-       "pose_name":"Tripod Headstand Pose",
+       "name":"Tripod Headstand Pose",
        "sanskrit_name":"Sālamba Śīrṣāsana II",
        "translation":[
           "sā = with",
@@ -942,7 +942,7 @@
     },
     {
        "file_reference":"headstand_tripod_spiral_legs.html",
-       "pose_name":"Tripod Headstand - Spiral the Legs Pose",
+       "name":"Tripod Headstand - Spiral the Legs Pose",
        "sanskrit_name":"Parivṛttaikapāda Śīrṣāsana II",
        "translation":[
           "parivṛtta = revolved",
@@ -962,7 +962,7 @@
     },
     {
        "file_reference":"hero.html",
-       "pose_name":"Hero Pose",
+       "name":"Hero Pose",
        "sanskrit_name":"Vīrāsana",
        "translation":[
           "vīra = hero",
@@ -977,7 +977,7 @@
     },
     {
        "file_reference":"hero_reclining.html",
-       "pose_name":"Supine Hero Pose",
+       "name":"Supine Hero Pose",
        "sanskrit_name":"Supta Vīrāsana",
        "translation":[
           "supta = supine",
@@ -993,7 +993,7 @@
     },
     {
        "file_reference":"hero_reclining_extended.html",
-       "pose_name":"Extended Supine Hero Pose",
+       "name":"Extended Supine Hero Pose",
        "sanskrit_name":"Utthita Supta Vīrāsana",
        "translation":[
           "utthita = extended",
@@ -1014,7 +1014,7 @@
     },
     {
        "file_reference":"knee_pile_bind.html",
-       "pose_name":"Cow Face Pose",
+       "name":"Cow Face Pose",
        "sanskrit_name":"Gomukhāsana",
        "translation":[
           "go = cow",
@@ -1032,7 +1032,7 @@
     },
     {
        "file_reference":"locust.html",
-       "pose_name":"Locust Pose",
+       "name":"Locust Pose",
        "sanskrit_name":"Śalabhāsana",
        "translation":[
           "śalabha = locust",
@@ -1047,7 +1047,7 @@
     },
     {
        "file_reference":"locust_half.html",
-       "pose_name":"Half Locust Pose",
+       "name":"Half Locust Pose",
        "sanskrit_name":"Ardha Śalabhāsana",
        "translation":[
           "ardha = half",
@@ -1063,7 +1063,7 @@
     },
     {
        "file_reference":"lord_of_the_dance.html",
-       "pose_name":"Lord of the Dance Pose",
+       "name":"Lord of the Dance Pose",
        "sanskrit_name":"Naṭarājāsana",
        "translation":[
           "naṭarājā = lord of the dance",
@@ -1079,7 +1079,7 @@
     },
     {
        "file_reference":"lord_of_the_dance_full.html",
-       "pose_name":"Full Lord of the Dance Pose",
+       "name":"Full Lord of the Dance Pose",
        "sanskrit_name":"Naṭarājāsana",
        "translation":[
           "naṭarājā = lord of the dance",
@@ -1097,7 +1097,7 @@
     },
     {
        "file_reference":"lotus_full.html",
-       "pose_name":"Lotus Pose",
+       "name":"Lotus Pose",
        "sanskrit_name":"Padmāsana",
        "translation":[
           "padma = lotus",
@@ -1114,7 +1114,7 @@
     },
     {
        "file_reference":"lotus_half.html",
-       "pose_name":"Half Lotus Pose",
+       "name":"Half Lotus Pose",
        "sanskrit_name":"Ardha Padmāsana",
        "translation":[
           "ardha = half",
@@ -1130,7 +1130,7 @@
     },
     {
        "file_reference":"lunge_bind.html",
-       "pose_name":"Bound Side Angle Pose",
+       "name":"Bound Side Angle Pose",
        "sanskrit_name":"Baddha Pārśvakoṇāsana",
        "translation":[
           "baddha = bound",
@@ -1149,7 +1149,7 @@
     },
     {
        "file_reference":"lunge_hands_on_mat_flying.html",
-       "pose_name":"Flying Man Pose",
+       "name":"Flying Man Pose",
        "sanskrit_name":"Eka Pāda Kouṇḍinyāsana",
        "translation":[
           "eka = one",
@@ -1166,7 +1166,7 @@
     },
     {
        "file_reference":"lunge_kneeling_twist.html",
-       "pose_name":"Revolved Crescent Lunge on the Knee Pose",
+       "name":"Revolved Crescent Lunge on the Knee Pose",
        "sanskrit_name":"Parivṛtta Aṅjaneyāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -1184,7 +1184,7 @@
     },
     {
        "file_reference":"lunge_kneeling_twist_extended.html",
-       "pose_name":"Revolved Crescent Lunge on the Knee with Extended Arms Pose",
+       "name":"Revolved Crescent Lunge on the Knee with Extended Arms Pose",
        "sanskrit_name":"Utthita Parivṛtta Aṅjaneyāsana",
        "translation":[
           "utthita = extended",
@@ -1203,7 +1203,7 @@
     },
     {
        "file_reference":"lunge_kneeling_twist_extended_bound.html",
-       "pose_name":"Bound Revolved Crescent Lunge on the Knee Pose",
+       "name":"Bound Revolved Crescent Lunge on the Knee Pose",
        "sanskrit_name":"Parivṛtta Baddha Aṅjaneyāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -1222,7 +1222,7 @@
     },
     {
        "file_reference":"lunge_twist.html",
-       "pose_name":"Revolved Crescent Lunge Pose",
+       "name":"Revolved Crescent Lunge Pose",
        "sanskrit_name":"Parivṛtta Aṅjaneyāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -1240,7 +1240,7 @@
     },
     {
        "file_reference":"lunge_twist_extended.html",
-       "pose_name":"Revolved Crescent Lunge with Extended Arms Pose",
+       "name":"Revolved Crescent Lunge with Extended Arms Pose",
        "sanskrit_name":"Utthita Parivṛtta Aṅjaneyāsana",
        "translation":[
           "utthita = extended",
@@ -1259,7 +1259,7 @@
     },
     {
        "file_reference":"lunge_twist_extended_bound.html",
-       "pose_name":"Bound Revolved Crescent Lunge Pose",
+       "name":"Bound Revolved Crescent Lunge Pose",
        "sanskrit_name":"Parivṛtta Baddha Aṅjaneyāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -1278,7 +1278,7 @@
     },
     {
        "file_reference":"marichi_I.html",
-       "pose_name":"Marichi's I Pose",
+       "name":"Marichi's I Pose",
        "sanskrit_name":"Marīchyāsana I",
        "translation":[
           "marīchi = name of a sage",
@@ -1293,7 +1293,7 @@
     },
     {
        "file_reference":"marichi_III.html",
-       "pose_name":"Marichi's III Pose",
+       "name":"Marichi's III Pose",
        "sanskrit_name":"Marīchyāsana III",
        "translation":[
           "marīchi = name of a sage",
@@ -1308,7 +1308,7 @@
     },
     {
        "file_reference":"mountain.html",
-       "pose_name":"Mountain Pose",
+       "name":"Mountain Pose",
        "sanskrit_name":"Tāḍāsana",
        "translation":[
           "tāḍa = mountain",
@@ -1323,7 +1323,7 @@
     },
     {
        "file_reference":"mountain_arms_up.html",
-       "pose_name":"Mountain with Arms Up Pose",
+       "name":"Mountain with Arms Up Pose",
        "sanskrit_name":"Tāḍāsana",
        "translation":[
           "tāḍa = mountain",
@@ -1340,7 +1340,7 @@
     },
     {
        "file_reference":"pigeon.html",
-       "pose_name":"Pigeon Pose",
+       "name":"Pigeon Pose",
        "sanskrit_name":"Kapotāsana",
        "translation":[
           "kapota = pigeon",
@@ -1355,7 +1355,7 @@
     },
     {
        "file_reference":"pigeon_flying.html",
-       "pose_name":"Flying Pigeon Pose",
+       "name":"Flying Pigeon Pose",
        "sanskrit_name":"Eka Pāda Gālavāsana",
        "translation":[
           "eka = one",
@@ -1374,7 +1374,7 @@
     },
     {
        "file_reference":"pigeon_full.html",
-       "pose_name":"One Legged King Pigeon - Mermaid Pose",
+       "name":"One Legged King Pigeon - Mermaid Pose",
        "sanskrit_name":"Eka Pāda Rājakapotāsana",
        "translation":[
           "eka = one",
@@ -1393,7 +1393,7 @@
     },
     {
        "file_reference":"pigeon_king.html",
-       "pose_name":"One Legged King Pigeon Pose",
+       "name":"One Legged King Pigeon Pose",
        "sanskrit_name":"Eka Pāda Rājakapotāsana",
        "translation":[
           "eka = one",
@@ -1413,7 +1413,7 @@
     },
     {
        "file_reference":"plank.html",
-       "pose_name":"Plank Pose",
+       "name":"Plank Pose",
        "sanskrit_name":"Phalakāsana",
        "translation":[
           "phalaka = plank",
@@ -1428,7 +1428,7 @@
     },
     {
        "file_reference":"plank_leg_up.html",
-       "pose_name":"One Legged Plank Pose",
+       "name":"One Legged Plank Pose",
        "sanskrit_name":"Eka Pāda Phalakāsana",
        "translation":[
           "eka = one",
@@ -1445,7 +1445,7 @@
     },
     {
        "file_reference":"plank_side.html",
-       "pose_name":"Side Plank Pose",
+       "name":"Side Plank Pose",
        "sanskrit_name":"Vasiṣṭhāsana",
        "translation":[
           "vasiṣṭha = name of a sage",
@@ -1460,7 +1460,7 @@
     },
     {
        "file_reference":"plank_side_extended.html",
-       "pose_name":"Extended Side Plank Pose",
+       "name":"Extended Side Plank Pose",
        "sanskrit_name":"Utthita Vasiṣṭhāsana",
        "translation":[
           "utthita = extended",
@@ -1476,7 +1476,7 @@
     },
     {
        "file_reference":"plank_upward.html",
-       "pose_name":"Upward Plank Pose",
+       "name":"Upward Plank Pose",
        "sanskrit_name":"Pūrvottānāsana",
        "translation":[
           "pūrva = front",
@@ -1494,7 +1494,7 @@
     },
     {
        "file_reference":"plow.html",
-       "pose_name":"Plow Pose",
+       "name":"Plow Pose",
        "sanskrit_name":"Halāsana",
        "translation":[
           "hala = plow",
@@ -1509,7 +1509,7 @@
     },
     {
        "file_reference":"puppy_extended.html",
-       "pose_name":"Extended Puppy Pose",
+       "name":"Extended Puppy Pose",
        "sanskrit_name":"Uttāna Shishosana",
        "translation":[
           "uttāna = stretch out",
@@ -1526,7 +1526,7 @@
     },
     {
        "file_reference":"pyramid.html",
-       "pose_name":"Pyramid Pose",
+       "name":"Pyramid Pose",
        "sanskrit_name":"Pārśvottānāsana",
        "translation":[
           "pārśva = side",
@@ -1542,7 +1542,7 @@
     },
     {
        "file_reference":"rabbit.html",
-       "pose_name":"Rabbit Pose",
+       "name":"Rabbit Pose",
        "sanskrit_name":"Sasangāsana",
        "translation":[
           "sasanga = rabbit",
@@ -1559,7 +1559,7 @@
     },
     {
        "file_reference":"scale.html",
-       "pose_name":"Scale Pose",
+       "name":"Scale Pose",
        "sanskrit_name":"Tolāsana",
        "translation":[
           "tola = scale",
@@ -1574,7 +1574,7 @@
     },
     {
        "file_reference":"scorpion.html",
-       "pose_name":"Scorpion Pose",
+       "name":"Scorpion Pose",
        "sanskrit_name":"Vṛśchikāsana I",
        "translation":[
           "vṛśchika = scorpion",
@@ -1591,7 +1591,7 @@
     },
     {
        "file_reference":"seated_forward_bend.html",
-       "pose_name":"Seated Forward Bend Pose",
+       "name":"Seated Forward Bend Pose",
        "sanskrit_name":"Paśchimottānāsana",
        "translation":[
           "paśchima = back",
@@ -1607,7 +1607,7 @@
     },
     {
        "file_reference":"seated_on_heels_twist_bound.html",
-       "pose_name":"Bound Revolved Squatting Toe Balance Pose",
+       "name":"Bound Revolved Squatting Toe Balance Pose",
        "sanskrit_name":"Pāśasana",
        "translation":[
           "pāśa = noose",
@@ -1624,7 +1624,7 @@
     },
     {
        "file_reference":"shoulderstand_supported.html",
-       "pose_name":"Supported Shoulder Stand Pose",
+       "name":"Supported Shoulder Stand Pose",
        "sanskrit_name":"Sālamba Sarvāṅgāsana",
        "translation":[
           "sa = with",
@@ -1641,7 +1641,7 @@
     },
     {
        "file_reference":"shoulderstand_unsupported.html",
-       "pose_name":"Unsupported Shoulder Stand Pose",
+       "name":"Unsupported Shoulder Stand Pose",
        "sanskrit_name":"Nirālamba Sarvāṅgāsana",
        "translation":[
           "nir = without",
@@ -1660,7 +1660,7 @@
     },
     {
        "file_reference":"sphinx.html",
-       "pose_name":"Sphinx Pose",
+       "name":"Sphinx Pose",
        "sanskrit_name":"Sālamba Bhujaṅgāsana",
        "translation":[
           "sālamba = supported",
@@ -1676,7 +1676,7 @@
     },
     {
        "file_reference":"splits_front.html",
-       "pose_name":"Front Splits Pose",
+       "name":"Front Splits Pose",
        "sanskrit_name":"Hanumānāsana",
        "translation":[
           "hanumān = monkey deity",
@@ -1692,7 +1692,7 @@
     },
     {
        "file_reference":"splits_standing.html",
-       "pose_name":"Standing Splits Pose",
+       "name":"Standing Splits Pose",
        "sanskrit_name":"Ūrdhva Prasārita Eka Pādāsana",
        "translation":[
           "ūrdhva = upward",
@@ -1710,7 +1710,7 @@
     },
     {
        "file_reference":"splits_wide.html",
-       "pose_name":"Side Splits Pose",
+       "name":"Side Splits Pose",
        "sanskrit_name":"Upaviṣṭha Koṇāsana",
        "translation":[
           "upaviṣṭha = seated",
@@ -1727,7 +1727,7 @@
     },
     {
        "file_reference":"staff.html",
-       "pose_name":"Staff Pose",
+       "name":"Staff Pose",
        "sanskrit_name":"Daṇḍāsana",
        "translation":[
           "daṇḍa = staff",
@@ -1742,7 +1742,7 @@
     },
     {
        "file_reference":"staff_inverted.html",
-       "pose_name":"Inverted Staff Pose",
+       "name":"Inverted Staff Pose",
        "sanskrit_name":"Dvi Pāda Viparīta Daṇḍāsana",
        "translation":[
           "dvi = two",
@@ -1764,7 +1764,7 @@
     },
     {
        "file_reference":"standing_hand_to_toe.html",
-       "pose_name":"Standing Hand to Toe Pose",
+       "name":"Standing Hand to Toe Pose",
        "sanskrit_name":"Hasta Pādāṅguṣṭhāsana",
        "translation":[
           "hasta = hand",
@@ -1782,7 +1782,7 @@
     },
     {
        "file_reference":"standing_hand_to_toe_extended.html",
-       "pose_name":"Extended Standing Hand to Toe Pose",
+       "name":"Extended Standing Hand to Toe Pose",
        "sanskrit_name":"Utthita Hasta Pādāṅguṣṭhāsana",
        "translation":[
           "utthita = extended",
@@ -1801,7 +1801,7 @@
     },
     {
        "file_reference":"standing_head_to_knee.html",
-       "pose_name":"Standing Head to Knee Pose",
+       "name":"Standing Head to Knee Pose",
        "sanskrit_name":"Daṇḍayamana Jānushīrāsana",
        "translation":[
           "daṇḍayamana = standing",
@@ -1818,7 +1818,7 @@
     },
     {
        "file_reference":"supine_bound_angle.html",
-       "pose_name":"Supine Bound Angle Pose",
+       "name":"Supine Bound Angle Pose",
        "sanskrit_name":"Supta Baddha Koṇāsana",
        "translation":[
           "supta = supine",
@@ -1835,7 +1835,7 @@
     },
     {
        "file_reference":"supine_hand_to_toe.html",
-       "pose_name":"Supine Hand to Toe Pose",
+       "name":"Supine Hand to Toe Pose",
        "sanskrit_name":"Supta Hasta Pādāṅguṣṭhāsana",
        "translation":[
           "supta = supine",
@@ -1852,7 +1852,7 @@
     },
     {
        "file_reference":"supine_hand_to_toe_extended.html",
-       "pose_name":"Extended Supine Hand to Toe Pose",
+       "name":"Extended Supine Hand to Toe Pose",
        "sanskrit_name":"Utthita Supta Hasta Pādāṅguṣṭhāsana",
        "translation":[
           "utthita = extended",
@@ -1872,7 +1872,7 @@
     },
     {
        "file_reference":"supine_pigeon.html",
-       "pose_name":"Supine Pigeon Pose",
+       "name":"Supine Pigeon Pose",
        "sanskrit_name":"Supta Kapotāsana",
        "translation":[
           "supta = supine",
@@ -1889,7 +1889,7 @@
     },
     {
        "file_reference":"supine_spinal_twist.html",
-       "pose_name":"Supine Spinal Twist Pose",
+       "name":"Supine Spinal Twist Pose",
        "sanskrit_name":"Supta Jaṭhara Parivartānāsana",
        "translation":[
           "supta = supine",
@@ -1906,7 +1906,7 @@
     },
     {
        "file_reference":"table.html",
-       "pose_name":"Table Pose",
+       "name":"Table Pose",
        "sanskrit_name":"Pūrvottānāsana",
        "translation":[
           "pūrva = front",
@@ -1925,7 +1925,7 @@
     },
     {
        "file_reference":"tortoise_bind.html",
-       "pose_name":"Tortoise Pose",
+       "name":"Tortoise Pose",
        "sanskrit_name":"Kūrmāsana",
        "translation":[
           "kūrma = tortoise",
@@ -1942,7 +1942,7 @@
     },
     {
        "file_reference":"tree.html",
-       "pose_name":"Tree Pose",
+       "name":"Tree Pose",
        "sanskrit_name":"Vṛkṣāsana",
        "translation":[
           "vṛkṣa = tree",
@@ -1957,7 +1957,7 @@
     },
     {
        "file_reference":"triangle_forward.html",
-       "pose_name":"Triangle Pose",
+       "name":"Triangle Pose",
        "sanskrit_name":"Trikoṇāsana",
        "translation":[
           "trikoṇa = triangle",
@@ -1972,7 +1972,7 @@
     },
     {
        "file_reference":"triangle_revolved.html",
-       "pose_name":"Revolved Triangle Pose",
+       "name":"Revolved Triangle Pose",
        "sanskrit_name":"Parivṛtta Trikoṇāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -1988,7 +1988,7 @@
     },
     {
        "file_reference":"turtle.html",
-       "pose_name":"Wind Removing Pose",
+       "name":"Wind Removing Pose",
        "sanskrit_name":"Pavanamuktāsana",
        "translation":[
           "pavana = wind",
@@ -2005,7 +2005,7 @@
     },
     {
        "file_reference":"upward_dog.html",
-       "pose_name":"Upward-Facing Dog Pose",
+       "name":"Upward-Facing Dog Pose",
        "sanskrit_name":"Ūrdhva Mukha Śvānāsana",
        "translation":[
           "ūrdhva = upward",
@@ -2022,7 +2022,7 @@
     },
     {
        "file_reference":"warrior_I.html",
-       "pose_name":"Warrior I Pose",
+       "name":"Warrior I Pose",
        "sanskrit_name":"Vīrabhadrāsana I",
        "translation":[
           "vīrabhadra = warrior",
@@ -2037,7 +2037,7 @@
     },
     {
        "file_reference":"warrior_II.html",
-       "pose_name":"Warrior II Pose",
+       "name":"Warrior II Pose",
        "sanskrit_name":"Vīrabhadrāsana II",
        "translation":[
           "vīrabhadra = warrior",
@@ -2052,7 +2052,7 @@
     },
     {
        "file_reference":"warrior_III.html",
-       "pose_name":"Warrior III Pose",
+       "name":"Warrior III Pose",
        "sanskrit_name":"Vīrabhadrāsana III",
        "translation":[
           "vīrabhadra = warrior",
@@ -2068,7 +2068,7 @@
     },
     {
        "file_reference":"warrior_II_forward.html",
-       "pose_name":"Warrior II Forward Bend Pose",
+       "name":"Warrior II Forward Bend Pose",
        "sanskrit_name":"Pārśvakoṇāsana",
        "translation":[
           "pārśva = side",
@@ -2086,7 +2086,7 @@
     },
     {
        "file_reference":"warrior_II_forward_arm_forward.html",
-       "pose_name":"Extended Side Angle Pose",
+       "name":"Extended Side Angle Pose",
        "sanskrit_name":"Utthita Pārśvakoṇāsana",
        "translation":[
           "utthita = extended",
@@ -2105,7 +2105,7 @@
     },
     {
        "file_reference":"warrior_II_reverse.html",
-       "pose_name":"Reverse Warrior Pose",
+       "name":"Reverse Warrior Pose",
        "sanskrit_name":"Pārśva Vīrabhadrāsana",
        "translation":[
           "pārśva = side",
@@ -2123,7 +2123,7 @@
     },
     {
        "file_reference":"warrior_I_kneeling.html",
-       "pose_name":"Crescent Lunge on the Knee Pose",
+       "name":"Crescent Lunge on the Knee Pose",
        "sanskrit_name":"Aṅjaneyāsana",
        "translation":[
           "aṅjaneya = praise",
@@ -2138,7 +2138,7 @@
     },
     {
        "file_reference":"warrior_twist_extended.html",
-       "pose_name":"Revolved Side Angle Pose",
+       "name":"Revolved Side Angle Pose",
        "sanskrit_name":"Parivṛtta Pārśvakoṇāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -2155,7 +2155,7 @@
     },
     {
        "file_reference":"warrior_twist_extended_bound.html",
-       "pose_name":"Bound Revolved Side Angle Pose",
+       "name":"Bound Revolved Side Angle Pose",
        "sanskrit_name":"Parivṛtta Baddha Pārśvakoṇāsana",
        "translation":[
           "parivṛtta = revolved",
@@ -2175,7 +2175,7 @@
     },
     {
        "file_reference":"wheel.html",
-       "pose_name":"Wheel Pose",
+       "name":"Wheel Pose",
        "sanskrit_name":"Ūrdhva Dhanurāsana",
        "translation":[
           "ūrdhva = upward",
@@ -2192,7 +2192,7 @@
     },
     {
        "file_reference":"wheel_leg_up.html",
-       "pose_name":"One Legged Wheel Pose",
+       "name":"One Legged Wheel Pose",
        "sanskrit_name":"Eka Pāda Ūrdhva Dhanurāsana",
        "translation":[
           "eka = one",
@@ -2213,7 +2213,7 @@
     },
     {
        "file_reference":"wild_thing.html",
-       "pose_name":"Wild Thing Pose",
+       "name":"Wild Thing Pose",
        "sanskrit_name":"Camatkārāsana",
        "translation":[
           "camatkāra = struck with wonder",
@@ -2230,7 +2230,7 @@
     },
     {
        "file_reference":"wind_removing.html",
-       "pose_name":"One Legged Wind Removing Pose",
+       "name":"One Legged Wind Removing Pose",
        "sanskrit_name":"Eka Pāda Pavanamuktāsana",
        "translation":[
           "eka = one",
