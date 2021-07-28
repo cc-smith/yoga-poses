@@ -1,4 +1,4 @@
-// poses.json file taken from: https://github.com/Stuwert/yoga-builder
+// poses.json file taken from: 
 
 const express = require('express')
 const path = require('path')
@@ -10,10 +10,16 @@ const app = express();
 let data = JSON.parse(fs.readFileSync('poses.json'));
 let poses = data["poses:"]
 
-app.get('/:query&:pose_name?&:category?&:difficulty?&:benefits?', (req, res) => {
+// http://localhost:5000/api?name=nameValue&category=categoryValue&difficulty=difficultyValue&benefits=benefitsValue
+app.get('/api', (req, res) => {
   // Get the filter criterion as provided in the get request url
-  var poseFilter = req.params
-
+  var url_parsed = url.parse(req.url, true);
+  var poseFilter = url_parsed.query
+  // var poseFilter = {
+  //   "name": req.query.name,
+  //   "category": req.query
+  // }
+  console.log("***", poseFilter)
   // Filter the poses.json file with the filter criterion
   var result = poses.filter(item => {
     var flag = true  // Set the conditional flag
@@ -21,7 +27,7 @@ app.get('/:query&:pose_name?&:category?&:difficulty?&:benefits?', (req, res) => 
     for (let key in poseFilter) {
 
       // Skip first param and params that are undefined
-      if (key == "query" || poseFilter[key] == undefined) {
+      if (poseFilter[key] == undefined) {
         continue;
       }
 
@@ -44,6 +50,5 @@ app.get('/:query&:pose_name?&:category?&:difficulty?&:benefits?', (req, res) => 
   res.header("Content-Type",'application/json');
   res.send(JSON.stringify(result, null, 4));
 });
-
 const PORT = process.env.PORT || 5000
 app.listen(PORT, () => console.log(`Listening on ${ PORT }`))
